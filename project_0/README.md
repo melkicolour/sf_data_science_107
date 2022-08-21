@@ -27,26 +27,8 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Оглавление)
-
-
-### Этапы работы над проектом  
-....
-
-:arrow_up:[к оглавлению](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Оглавление)
-
-
 ### Результаты:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Оглавление)
-
+Программа угадывает число за минимальное количество попыток (меньше 20).
 
 ### Выводы:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Оглавление)
+В результате разработки программы я научился работать с IDE, писать код в IDE, отправлять его на Github, а так же объединять ветки Github с независимой друг от друга историей. 
