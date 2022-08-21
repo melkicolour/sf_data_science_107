@@ -2,10 +2,9 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Результат](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Результат)    
-[5. Выводы](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Какой-кейс-решаем)    
+[3. Результат](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Результат)    
+[4. Выводы](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -19,15 +18,13 @@
 **Условия соревнования:**  
 - Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+- Необходимо добиться того, чтобы программа угадывала число меньше, чем за 20 попыток.
 
 **Метрика качества**     
 Результаты оцениваются по среднему количеству попыток при 1000 повторений
 
 **Что практикуем**     
 Учимся писать хороший код на python
-
-### Краткая информация о данных
-Функция random_predict(), будет принимать на вход загаданное число number.
 
 ### Результаты:  
 Программа угадывает число за минимальное количество попыток (меньше 20).
