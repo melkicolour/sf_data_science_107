@@ -7,7 +7,7 @@
 [4. Выводы](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md#Выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+Програма, которая угадывает загаданное компьютером число за минимальное количество попыток.
 
 :arrow_up:[к оглавлению](https://github.com/melkicolour/sf_data_science_107/tree/main/project_0/README.md)
 
